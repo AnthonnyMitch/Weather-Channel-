@@ -1,0 +1,21 @@
+.jumbotron {
+    color: white;
+    text-align: center;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    background-color: #003366;
+    width: 100%;
+    
+    
+}
+
+
+
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    color:white;
+    background-color:#003366 ;
+}
